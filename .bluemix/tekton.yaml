@@ -9,7 +9,7 @@ inputs:
   service: repolibrary
 properties:
 - name: GIT_REPO
-  value: 'https://github.com/powellquiring/secure-file-storage'
+  value: 'https://github.com/powellquiring/tct2'
   type: text 
 - name: GIT_BRANCH
   value: ${GIT_BRANCH}
@@ -73,4 +73,4 @@ triggers:
 #    push: true
 #  name: git-BUILD
 #  type: git
-#  url: https://github.com/powellquiring/secure-file-storage.git
+#  url: https://github.com/powellquiring/tct2.git
